@@ -4,12 +4,12 @@ Theo dõi những ngày đáng nhớ với đồng hồ ngày, giờ, phút, gi�
 
 ## Tải và cài đặt
 
-**[Tải Đếm ngược 1.0 — APK cho Android](https://github.com/hieundt05/dem-nguoc-download/raw/refs/heads/main/dem-nguoc-1.0.apk)**
+**[Tải Đếm ngược 1.0.1 — APK cho Android](https://github.com/hieundt05/dem-nguoc-download/raw/refs/heads/main/dem-nguoc-1.0.1.apk)**
 
 Yêu cầu Android 8.0 trở lên. Dung lượng khoảng 11 MB. Chưa có bản dành cho iPhone/iPad.
 
 1. Mở link tải bằng trình duyệt trên điện thoại Android.
-2. Mở file `dem-nguoc-1.0.apk` vừa tải.
+2. Mở file `dem-nguoc-1.0.1.apk` vừa tải.
 3. Nếu Android yêu cầu, cấp quyền cài ứng dụng cho trình duyệt hoặc ứng dụng quản lý tệp đang dùng, rồi tiếp tục cài.
 4. Lần đầu mở, đọc và xác nhận chính sách quyền riêng tư để sử dụng app. Quyền thông báo chỉ được hỏi khi bạn bật lịch nhắc.
 
@@ -32,3 +32,7 @@ File `SHA256SUMS.txt` chứa mã SHA-256 của APK được phát hành cùng re
 Hỗ trợ: hieundt2005@gmail.com
 
 Repo này chỉ phân phối bản cài và hướng dẫn. Mã nguồn được quản lý riêng.
+
+## Bản 1.0.1
+
+Giao diện tự thích ứng cho điện thoại và màn hình ngang/máy tính bảng; menu Tiện ích gọn hơn; nền sự kiện rõ màu và chữ dễ đọc. Link cũ dem-nguoc-1.0.apk cũng được cập nhật sang bản này để người đã lưu link vẫn nhận được bản mới.
